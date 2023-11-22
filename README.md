@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 <img src="https://komarev.com/ghpvc/?username=ShallowU&style=for-the-badge" />
 
-<img src="https://techstack-generator.vercel.app/react-icon.svg" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShallowU&layout=compact" />
