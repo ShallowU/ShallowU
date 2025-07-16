@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 #### Welcome to ShallowU' channel!
-**I love LLM and somthing instersting about CS!**
+**I love LLM and somthing interesting about CS!**
