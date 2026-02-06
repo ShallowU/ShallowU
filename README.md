@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### Welcome to ShallowU' channel!
-**I love LLM and somthing interesting about CS!**
+NUAA --> SEU<br>
+I love LLM and somthing interesting about CS!<br>
+This is [my pensonal website](https://zhoudianfu.github.io/).
+
